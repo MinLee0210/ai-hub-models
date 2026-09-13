@@ -28,6 +28,7 @@ source_repo: https://huggingface.co/BAAI/bge-large-en-v1.5
 status: pending
 supported_precisions:
 - float
+- w8a8
 tags:
 - foundation
 - real-time
